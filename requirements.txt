@@ -1,0 +1,2 @@
+# O projeto utiliza apenas bibliotecas padrão do Python (collections), 
+# portanto nenhuma dependência externa é obrigatória para a lógica básica de grafos.
